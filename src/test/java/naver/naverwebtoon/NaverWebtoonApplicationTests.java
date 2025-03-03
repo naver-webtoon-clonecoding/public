@@ -1,4 +1,4 @@
-package naver.naverWebtoon;
+package naver.naverwebtoon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
